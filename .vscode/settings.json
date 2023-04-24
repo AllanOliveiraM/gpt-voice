@@ -6,5 +6,7 @@
   "files.associations": {
     "*.env*": "env"
   },
-  "workbench.tree.indent": 15
+  "workbench.tree.indent": 15,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
 }

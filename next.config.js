@@ -36,8 +36,8 @@ const securityHeaders = [
   },
 ]
 
-const AVAILABLE_LOCALES = ['pt']
-const DEFAULT_LOCALE = 'pt'
+const AVAILABLE_LOCALES = ['pt-BR']
+const DEFAULT_LOCALE = 'pt-BR'
 
 const nextConfig = {
   async headers() {
